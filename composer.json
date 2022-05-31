@@ -1,0 +1,8 @@
+{
+    "name": "SarveshKumarDevvanshi-cedcoss/newTest",
+    "description": "product data table",
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.4"
+    }
+}

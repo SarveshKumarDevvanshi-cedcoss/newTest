@@ -1,7 +1,6 @@
 {
     "name": "sarvesh-devvanshi-cedcoss/new-test",
     "description": "product data table",
-    "minimum-stability": "dev",
     "version" : "1.0.3-dev",
     "require": {
         "php": ">=7.4"
